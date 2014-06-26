@@ -1,0 +1,37 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <string name="appName">BarDom</string>
+    <string name="dummy_button">Dummy Button</string>
+    <string name="dummy_content">DUMMY\nCONTENT</string>
+    <string name="title_activity_test">TestActivity</string>
+    <string name="action_settings">Settings</string>
+    <string name="splashScreenBackground">splashScreenBackgroundImage</string>
+    <string name="email">Email</string>
+    <string name="confirmEmail">Confirm Email</string>
+    <string name="password">Password</string>
+    <string name="confirmPassword">Confirm Password</string>
+    <string name="signupButton">SignUp</string>
+    <string name="loginButton">Login</string>
+    <string name="exitButton">Exit</string>
+    <string name="zonesButton">Zones</string>
+    <string name="teamButton">Team</string>
+    <string name="individualButton">Individual</string>
+    <string name="settingsButton">Settings</string>
+    <string name="teamMenu">Team Menu</string>
+    <string name="currentTeamButton">Current Team</string>
+    <string name="membersButton">Members</string>
+    <string name="chatRoomButton">Chat Room</string>
+    <string name="statsButton">Stats</string>
+    <string name="teamManagementButton">Team Management</string>
+    <string name="statusButton">Team Status</string>
+    <string name="title_activity_login">LoginActivity</string>
+    <string name="title_activity_sign_up">SignUpActivity</string>
+    <string name="title_activity_main_menu">MainMenuActivity</string>
+    <string name="title_activity_team_menu">TeamMenuActivity</string>
+    <string name="title_activity_splash_screen">SplashScreen</string>
+    <string name="title_activity_map">Map</string>
+    <string name="title_activity_map_full_screen">MapFullScreenActivity</string>
+    <string name="title_activity_team_menu_full_screen">TeamMenuFullScreenActivity</string>
+
+</resources>

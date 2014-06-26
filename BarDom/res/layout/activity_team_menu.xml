@@ -1,0 +1,67 @@
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="match_parent"
+    android:layout_height="fill_parent"
+    android:orientation="vertical" 
+    android:background="@color/Black">
+
+    <TextView
+        android:id="@+id/titleBarTeamMenu"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_gravity="center"
+        android:layout_marginBottom="15dip"
+        android:text="@string/appName"
+        android:textColor="@color/White"
+        android:textSize="20.5sp" />
+
+    <Button
+        android:id="@+id/zonesButton"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:layout_marginTop="20dip"
+        android:text="@string/currentTeamButton"
+        android:textColor="@color/White" />
+
+    <Button
+        android:id="@+id/membersButton"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:text="@string/membersButton"
+        android:textColor="@color/White" />
+
+    <Button
+        android:id="@+id/chatButton"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:text="@string/chatRoomButton"
+        android:textColor="@color/White" />
+
+    <Button
+        android:id="@+id/statsButton"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:text="@string/statsButton"
+        android:textColor="@color/White" />
+
+    <Button
+        android:id="@+id/teamManagementButton"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:text="@string/teamManagementButton"
+        android:textColor="@color/White" />
+
+    <Button
+        android:id="@+id/settingsButton"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:text="@string/settingsButton"
+        android:textColor="@color/White" />
+
+    <Button
+        android:id="@+id/statusButton"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:text="@string/statusButton"
+        android:textColor="@color/White" />
+
+</LinearLayout>
